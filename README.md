@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="ícone de descrição" width="28"> Descrição
-Aplicação utilizando o **Typebot** através das Bubbles, em conjunto com código **JavaScript** e com uma planilha no **Google Sheets**, para obter a sala de determinada aula a partir do nome da disciplina.
+Aplicação de um *Menu-Based Chatbot* utilizando o **Typebot** através das Bubbles, em conjunto com código **JavaScript** e com uma planilha no **Google Sheets**, para obter a sala de determinada aula a partir do nome da disciplina.
 
 # <sub><img src="https://img.icons8.com/?size=100&id=6nsw3h9gk8M8&format=png&color=000000" alt="ícone de robô" width="38"></sub> Funcionamento
 ### Obtenção da sala para aulas ministradas no dia
